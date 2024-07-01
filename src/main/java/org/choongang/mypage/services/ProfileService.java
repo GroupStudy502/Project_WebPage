@@ -1,12 +1,12 @@
-package org.choongang.member.services;
+package org.choongang.mypage.services;
 
 import lombok.RequiredArgsConstructor;
 import org.choongang.global.config.annotations.Service;
 import org.choongang.member.MemberUtil;
-import org.choongang.member.controllers.RequestProfile;
+import org.choongang.mypage.controllers.RequestProfile;
 import org.choongang.member.entities.Member;
 import org.choongang.member.mappers.MemberMapper;
-import org.choongang.member.validators.ProfileValidator;
+import org.choongang.mypage.validators.ProfileValidator;
 import org.mindrot.jbcrypt.BCrypt;
 
 @Service

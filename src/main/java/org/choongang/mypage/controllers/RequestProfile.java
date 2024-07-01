@@ -1,4 +1,4 @@
-package org.choongang.member.controllers;
+package org.choongang.mypage.controllers;
 
 import lombok.Data;
 

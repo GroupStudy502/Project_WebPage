@@ -6,8 +6,7 @@ import org.choongang.global.config.annotations.Controller;
 import org.choongang.global.config.annotations.GetMapping;
 import org.choongang.global.config.annotations.PostMapping;
 import org.choongang.global.config.annotations.RequestMapping;
-import org.choongang.member.controllers.RequestProfile;
-import org.choongang.member.services.ProfileService;
+import org.choongang.mypage.services.ProfileService;
 
 import java.util.List;
 
